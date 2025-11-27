@@ -1,5 +1,9 @@
 # Scripts for AI for Data Science Bootcamp
 
-Written by Mukhlas Adib
-Hacktiv8 in works with AVPN# Hacktiv8-FinalProject
+Written by Dyah Ayu Pramestisiwi
+This is Final Project from Hacktiv8
+
+This is a chatbot for a travel assistant, so you can ask any question regarding travel plan.
+
+Chatbot is using model: gemini-2.0-flash
 # Hacktiv8-FinalProject
