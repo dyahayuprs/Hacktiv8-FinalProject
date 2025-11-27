@@ -11,7 +11,7 @@ from langchain_core.messages import HumanMessage, SystemMessage
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 # Bikin judul
-st.title("My Travel Assistant")
+st.title("My Travel Assistant✈️")
 
 # Cek apakah API key sudah ada
 if "GOOGLE_API_KEY" not in os.environ:
